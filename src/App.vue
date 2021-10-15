@@ -36,7 +36,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  font-size: 13px;
+  font-size: 1.2rem;
 }
 
 .darktheme {
@@ -74,7 +74,7 @@ body {
 }
 
 .title {
-  font-size: 25px;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -85,7 +85,7 @@ body {
   display: block;
   padding: 9.5px;
   margin: 0 0 10px;
-  font-size: 13px;
+  font-size: 1.2rem;
   line-height: 1.42857143;
   color: #333;
   word-break: break-all;
@@ -110,11 +110,11 @@ textarea {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  font-size: 13px;
+  font-size: 1.2rem;
 }
 
 textarea {
-  min-width: 500px;
+  max-width: 100%;
   display: block;
   margin-bottom: 10px;
 }
@@ -126,7 +126,7 @@ select {
 .go_btn {
   display: inline-flex;
   background: orange;
-  padding: 3px 15px;
+  padding: 8px 15px;
   color: white;
   cursor: pointer;
   border: 1px solid orange;
