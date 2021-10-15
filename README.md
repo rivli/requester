@@ -1,24 +1,9 @@
-# requester
+# Requester
 
-## Project setup
-```
-npm install
-```
+It's a simple app for testing backend API endpoints. Build with Vue 2 and Axios.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to use
 
-### Compiles and minifies for production
-```
-npm run build
-```
+On main input field write your endpoint, choose request type and click "go" button.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Additionaly you can add some fields and headers to request. Fields can be added all at once as `json` format or one by one(hit `Add field` button).
