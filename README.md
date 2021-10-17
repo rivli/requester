@@ -1,6 +1,6 @@
 # Requester
 
-It's a simple app for testing backend API endpoints. Build with Vue 2 and Axios.
+It's a [simple app](https://zakilvir.github.io/requester/) for testing backend API endpoints. Build with Vue 2 and Axios.
 
 ## How to use
 
